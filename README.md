@@ -5,4 +5,4 @@ GitHubの練習
 - こんな感じ。
 
 
--ここは、iPad miniから編集。
+- ここは、iPad miniから編集。
